@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  text-decoration: none;
+}
+
+h3{
+  margin-right: 2rem;
+}
+
+
+/* header */
+.container {
+  text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+.header-text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  font-weight: 400;
+}
+.book-icon {
+  color: #1687a7;
+  font-size: 3rem;
+}
+.book-part {
+  color: #1687a7;
+}
+
+/* Form section */
+.add-form {
+  width: 40%;
+  margin: auto;
+}
+
+.form-button {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.form-text {
+  font-family: "Montserrat", sans-serif;
+}
